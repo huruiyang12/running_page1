@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'https://running-page1-nine.vercel.app/',
+    siteUrl: 'https://run.rongxiangji.top',
     logo: 'https://rongxiangji.top/images.png',
     description: 'Personal site and blog',
     navLinks: [
